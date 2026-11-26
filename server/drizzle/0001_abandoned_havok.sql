@@ -1,0 +1,1 @@
+ALTER TABLE `sku` MODIFY COLUMN `kategori` enum('Tenda Dome','Carrier','Sleeping Bag','Stove','Trekking Pole','Kursi & Meja','Hydropack','Senter','Lampu','Sepatu','Jaket','Sarung Tangan','Gas Portable','Matras','Hammock') NOT NULL;
